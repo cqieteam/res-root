@@ -10,7 +10,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 /**
  * Application
  * @author ThinkGem
- * @version 2018-10-13
+ * @version 2019-10-13
  */
 @SpringBootApplication
 public class Application extends SpringBootServletInitializer {
